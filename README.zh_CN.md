@@ -55,4 +55,4 @@ $ sudo make install
 
 ## 开源许可证
 
-deepin-face在 [GPL-3.0-or-later](LICENSE)下发布。
+deepin-desktop-schemas在 [GPL-3.0-or-later](LICENSE)下发布。

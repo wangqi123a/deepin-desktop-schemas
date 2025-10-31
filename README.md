@@ -54,4 +54,4 @@ We encourage you to report issues and contribute changes
 
 ## License
 
-deepin-face is licensed under [GPL-3.0-or-later](LICENSE).
+deepin-desktop-schemas is licensed under [GPL-3.0-or-later](LICENSE).
